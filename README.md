@@ -19,4 +19,4 @@ To serve the project documentation locally in your browser, please run `mkdocs s
 If you have any questions about the contents of this repo, please contact:
 
 - Adina Wagner
-- Lennart Wittkuhn
+- [Lennart Wittkuhn](mailto:lennart.wittkuhn@uni-hamburg.de)
